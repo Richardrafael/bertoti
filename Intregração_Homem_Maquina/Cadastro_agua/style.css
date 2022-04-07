@@ -1,0 +1,51 @@
+.containerEnergia{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 284px;
+    height: 108vh;
+    padding-top:20px ;
+}
+.cadastro{
+    margin-top: 40px;
+}
+input{
+    padding: 15px;
+    display: inline-block;
+    border: 1px solid #f8f8f8;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+    margin-top: 10px;
+}
+.coluna{
+    display: flex;
+    gap: 80px;
+    margin-bottom: 40px;
+}
+
+#upload,
+#botao_cad {
+  width: 150px;
+  height: 30px;
+  background-color: #1dd9b1;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  color: #ffffff;
+  font-family: sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+}
+#upload:hover,
+#botao_cad:hover {
+  background: #22334d;
+  box-shadow: #22334d;
+  text-shadow: none;
+}
+
+.bt-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
