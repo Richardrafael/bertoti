@@ -76,7 +76,7 @@ realizar um contrato de energia.
 ![Equipe Ditial Solutions](/readme/time.gif "Apresentação Equipe Digital Solutions") -->
 
 <br>
-||| **Richard Rafael**    |||  Desenvolvedor  |||  [@LinkedIn](https://www.linkedin.com/mwlite/in/richard-soares-002195221)   ||| <img src = "./readme/integrantes/richard.jpeg" width="40">                                   |
+Richard Rafael Sacramento soares |Análise e Desenvolvimento de sistemas |  [@LinkedIn](https://www.linkedin.com/mwlite/in/richard-soares-002195221)   | <img src = "./readme/integrantes/richard.jpeg" width="40">                                  
 
 <br>
 
