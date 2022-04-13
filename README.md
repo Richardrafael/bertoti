@@ -64,11 +64,6 @@ realizar um contrato de energia.
 - **Metodologia Ágil: SCRUM**
 <!--add scrum figma-->
 <img src = "./readme/framesFigma/metodologiaScrum.png" />
-
-<h1></h1>
-<br id="product-backlog">
-
-## 📋 Product Backlog
 <br id="equipe">
 
 ## 👨‍💻 Equipe
