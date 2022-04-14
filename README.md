@@ -15,13 +15,6 @@
  Avaliação de intregração homem e maquina 
 
 <br>
-<br id="cadastroCA">
-    
-# Cadastro de contrato de Água
-Cadastro de contrato de agua , com finalidade de agilizar de certa forma automatizar a digitação do digitador ao <br>
-realizar um contrato de agua.
-
-<br>
 <br id="cadastroE">
 
 # Cadastro de contrato de Energia 
