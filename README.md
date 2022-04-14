@@ -62,7 +62,7 @@ realizar um contrato de energia.
 
 - **Metodologia Ágil: SCRUM**
 <h1 align="center"> 
-<img src = "<./Intregração_Homem_Maquina/readme/integrantes/met.png"></h1>
+<img src = "./Intregração_Homem_Maquina/readme/integrantes/met.png"></h1>
 <br id="equipe">
 
 ## 👨‍💻 Eu
