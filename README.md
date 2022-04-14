@@ -7,7 +7,7 @@
   <a href ="#cadastroE"> Cadastro de contrato de Energia </a>  • 
   <a href ="#conograma"> Cronograma das Sprints </a>  • 
   <a href ="#tecnologias-utilizadas">Tecnologias Utilizadas</a>  • 
-
+  <a href ="#metodologia-utilizada">Metodologia Utilizada</a> 
  
 </p>
 
