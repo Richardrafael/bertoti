@@ -20,7 +20,6 @@
 # Cadastro de contrato de Energia 
 Cadastro de contrato de energia , com finalidade de agilizar e de certa forma automatizar a digitação do digitador ao <br>
 realizar um contrato de energia.
-<img src = "./readme/grupoAPI/Logo.png"  width="200"/>
 <br>
 <br id="cronograma">
 ## 📆 Cronograma das Sprints
