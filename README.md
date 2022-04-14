@@ -42,8 +42,8 @@ realizar um contrato de energia.
 <br id="cronograma">
 ## 📆 Cronograma das Sprints
 - <img src = "./readme/grupoAPI/a_fazer.jpeg" />[ Sprint 1 ](https://github.com/Richardrafael/bertoti/tree/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/prim) - - 25/03/2022 a 14/04/2022]
-- <img src = "./readme/grupoAPI/a_fazer.jpeg" /> [ Sprint 2 ]( ) - 25/04/2022 a 15/05/2022  
-- <img src = "./readme/grupoAPI/a_fazer.jpeg" /> [ Sprint 3 ]( ) - 16/05/2022 a 05/06/2022  
+- <img src = "./readme/grupoAPI/a_fazer.jpeg" /> [ Sprint 2 ](https://github.com/Richardrafael/bertoti/tree/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/segu) - 25/04/2022 a 15/05/2022  
+- <img src = "./readme/grupoAPI/a_fazer.jpeg" /> [ Sprint 3 ]( https://github.com/Richardrafael/bertoti/tree/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/ter) - 16/05/2022 a 05/06/2022  
 - <img src = "./readme/grupoAPI/a_fazer.jpeg" /> [Feira de Soluções](https://youtu.be/xGE51h8fBuY) - 15/06/2022
 
 <br>
