@@ -5,6 +5,9 @@
   <a href ="#cadastroA"> Cadastro de conta de Água </a>  • 
   <a href ="#cadastroCA"> Cadastro de contrato de Água </a>  • 
   <a href ="#cadastroE"> Cadastro de contrato de Energia </a>  • 
+  <a href ="#conograma"> Cronograma das Sprints </a>  • 
+  <a href ="#tecnologias-utilizadas">Tecnologias Utilizadas</a>  • 
+
  
 </p>
 
@@ -36,6 +39,7 @@ Cadastro de contrato de energia , com finalidade de agilizar e de certa forma au
 realizar um contrato de energia.
 <img src = "./readme/grupoAPI/Logo.png"  width="200"/>
 <br>
+<br id="cronograma">
 ## 📆 Cronograma das Sprints
 - <img src = "./readme/grupoAPI/a_fazer.jpeg" /> [ Sprint 1 ]( ) - 25/03/2022 a 14/04/2022   
 - <img src = "./readme/grupoAPI/a_fazer.jpeg" /> [ Sprint 2 ]( ) - 25/04/2022 a 15/05/2022  
@@ -61,8 +65,6 @@ realizar um contrato de energia.
 ## 💡 Metodologia Utilizada   
 
 - **Metodologia Ágil: SCRUM**
-<!--add scrum figma-->
-<img src = "./readme/framesFigma/metodologiaScrum.png" />
 <br id="equipe">
 
 ## 👨‍💻 Eu
