@@ -56,13 +56,17 @@ realizar um contrato de energia.
 - **Front-end:** HTML, CSS, JavaScript, React;
 - **Ferramentas:** Visual Studio Code, Figma, Git e Github;   
 
+<h1 align="center"> 
+<img src = "./Intregração_Homem_Maquina/readme/imge/12.png"></h1>
+<br id="equipe">
+
 <br id="metodologia-utilizada">   
 
 ## 💡 Metodologia Utilizada   
 
 - **Metodologia Ágil: SCRUM**
 <h1 align="center"> 
-<img src = "<./Intregração_Homem_Maquina/readme/imge/met.png"></h1>
+<img src = "./Intregração_Homem_Maquina/readme/imge/met.png"></h1>
 <br id="equipe">
 
 ## 👨‍💻 Eu
