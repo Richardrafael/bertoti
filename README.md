@@ -15,13 +15,6 @@
  Avaliação de intregração homem e maquina 
 
 <br>
-<br id="cadastroA">
-
-# Casdastro de conta de Agua 
-Um dos requisitos do nosso cliente a Tecsus foi um cadastro de conta de água padronizado <br>
-, assim o trabalho digitador vai ser mais rapido.
-
-<br>
 <br id="cadastroCA">
     
 # Cadastro de contrato de Água
