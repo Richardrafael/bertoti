@@ -5,9 +5,9 @@
   <a href ="#cadastroA"> Cadastro de conta de Água </a>  • 
   <a href ="#cadastroCA"> Cadastro de contrato de Água </a>  • 
   <a href ="#cadastroE"> Cadastro de contrato de Energia </a>  • 
-  <a href ="#conograma"> Cronograma das Sprints </a>  • 
+  <a href ="#cronograma"> Cronograma das Sprints </a>  • 
   <a href ="#tecnologias-utilizadas">Tecnologias Utilizadas</a>  • 
-
+  <a href ="#metodologia-utilizada">Metodologia Utilizada</a> 
  
 </p>
 
