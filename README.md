@@ -62,7 +62,7 @@ realizar um contrato de energia.
 
 - **Metodologia Ágil: SCRUM**
 <h1 align="center"> 
-<img src = "<./Intregração_Homem_Maquina/readme/integrantes/met.png"></h1>
+<img src = "<./Intregração_Homem_Maquina/readme/imge/met.png"></h1>
 <br id="equipe">
 
 ## 👨‍💻 Eu
@@ -72,7 +72,7 @@ realizar um contrato de energia.
 <br>
 Richard Rafael Sacramento soares <br>
 Análise e Desenvolvimento de sistemas 3°semestre <br> 
-[@LinkedIn](https://www.linkedin.com/mwlite/in/richard-soares-002195221) <img src = "./Intregração_Homem_Maquina/readme/integrantes/richard.png" width="40">                                  
+[@LinkedIn](https://www.linkedin.com/mwlite/in/richard-soares-002195221) <img src = "./Intregração_Homem_Maquina/readme/imge/richard.png" width="40">                                  
 
 <br>
 
