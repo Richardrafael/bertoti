@@ -42,20 +42,23 @@ O conteúdo não restringe sua visualização e operação a uma única orienta�
 como retrato ou paisagem, a menos que uma orientação de exibição específica seja essencial.<br>
 ![layout](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/layout.png)<br>
 ### 1.3.5 - Identificar o propósito de entrada
-Cada campo de conteudo tem que ser claro <br>
-![layout](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/campos.png)<br>
-
-
+Cada campo de conteúdo tem que ser claro <br>
+![campos](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/campos.png)<br>
 
 <br id="adaptavel"> 
 
-## Distinguível
-estou trolando<br>
+## 1.4 - Distinguível
+Torne mais fácil para os usuários ver e ouvir o conteúdo, incluindo a separação do primeiro<br>
+plano do plano de fundo<br>
+### 1.4.1 - Uso de cor
+A cor não é usada como o único meio visual de transmitir informações, indicar uma ação,<br>
+solicitar uma resposta ou distinguir um elemento visual.
+![cores](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/cores.png)<br>
 
 <br id="Distinguível">   
 
 ## Operável
-estou trolando<br>
+Os componentes da interface do usuário e a navegação devem ser operáveis.<br>
 
 <br id="operavel">
     
