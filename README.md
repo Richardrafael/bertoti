@@ -59,15 +59,31 @@ solicitar uma resposta ou distinguir um elemento visual.
 
 ## 2 - Operável
 Os componentes da interface do usuário e a navegação devem ser operáveis.<br>
-## 2.1.1 - Teclado
-Atalhos pelo teclado possibilidando navegar pelo teclado
+### 2.1.1 - Teclado
+Atalhos pelo teclado possibilidando navegar pelo teclado<nr>
 
-![cores](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/cadastro_concessionaria.gif)
+![cores](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/cadastro_concessionaria.gif)<br>
+### 2.2 - Tempo suficiente
+Forneça aos usuários tempo suficiente para ler e usar o conteúdo. <br>
+### 2.3 - Convulsões e Reações Físicas
+Não crie conteúdo de uma forma conhecida por causar convulsões ou reações físicas.<br>
+### 2.4 - Navegável
+Forneça maneiras de ajudar os usuários a navegar, encontrar conteúdo e determinar onde eles <br> 
+estão.<br>
+### 2.5 - Modalidades de Entrada
+Torne mais fácil para os usuários operar a funcionalidade por meio de várias entradas além <br>do teclado.
 <br id="operavel">
-    
 
-## Compreencivel
-estou trolando<br>
+## 3 - Compreencivel
+As informações e a operação da interface do usuário devem ser compreensíveis.<br>
+### 3.1 - Legivel
+Torne o conteúdo do texto legível e compreensível.<br>
+### 3.2 - Previsível
+Faça com que as páginas da Web apareçam e operem de maneira previsível.<br>
+### 3.3 - Assistência de Entrada
+Ajude os usuários a evitar e corrigir erros.<br>
+![cores](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/form.jpg)<br>
+
 
 <br id="compreencivel">
 
