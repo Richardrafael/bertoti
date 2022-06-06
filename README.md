@@ -7,6 +7,7 @@
   <a href ="#Distinguível"> Distinguível </a>  • 
   <a href ="#operavel"> Operavel </a>  • 
   <a href ="#compreencivel">Compreencivel</a>  • 
+  <a href ="#robusto">Robusto</a>  • 
   <a href ="#metodologia-utilizada">Metodologia Utilizada</a> 
  
 </p>
@@ -74,6 +75,8 @@ estão.<br>
 Torne mais fácil para os usuários operar a funcionalidade por meio de várias entradas além <br>do teclado.
 <br id="operavel">
 
+<br>
+
 ## 3 - Compreencivel
 As informações e a operação da interface do usuário devem ser compreensíveis.<br>
 ### 3.1 - Legivel
@@ -83,6 +86,14 @@ Faça com que as páginas da Web apareçam e operem de maneira previsível.<br>
 ### 3.3 - Assistência de Entrada
 Ajude os usuários a evitar e corrigir erros.<br>
 ![cores](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/form.jpg)<br>
+<br id="compreencivel">
+
+
+# 4 – Robusto
+ O conteúdo deve ser robusto o suficiente para que possa ser interpretado por uma ampla<br> variedade de agentes de usuário, incluindo tecnologias assistivas.<br>
+ <br id="robusto">
+<br>
+
 
 
 <br id="compreencivel">
