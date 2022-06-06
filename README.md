@@ -3,7 +3,7 @@
 <p align="center">
   <a href ="bertoti"> Bertoti </a>  •   
   <a href ="#Perceptivel"> Perceptivel </a>  •   
-  <a href ="#Adaptavel"> Adptavel </a>  •  
+  <a href ="#adaptavel"> Adptavel </a>  •  
   <a href ="#Distinguível"> Distinguível </a>  • 
   <a href ="#cronograma"> Cronograma das Sprints </a>  • 
   <a href ="#tecnologias-utilizadas">Tecnologias Utilizadas</a>  • 
@@ -25,9 +25,8 @@ alalla<br>
 <br>
 
 
-<br id="Adaptavel">
+<br id="adaptavel">
 ## Adaptavel
-
 allalala<br>
 
 <br id="Distinguível"> 
