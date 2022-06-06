@@ -40,7 +40,7 @@ simples) sem perder informações ou estrutura.<br>
 ### 1.3.4 - Orientação
 O conteúdo não restringe sua visualização e operação a uma única orientação de exibição,<br> 
 como retrato ou paisagem, a menos que uma orientação de exibição específica seja essencial.<br>
-![layout](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/layout.PNG)<br>
+![layout](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/layout.png)<br>
 
 
 <br id="adaptavel"> 
