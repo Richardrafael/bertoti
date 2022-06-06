@@ -18,9 +18,9 @@
 <br>
 
 
-# Perceptível
+# 1 - Perceptível
 As informações devem ser exposta de modo que o usuario possa perceber <br>
- ## Alternativas de Texto  <br>
+ ### 1.1 - Alternativas de Texto  <br>
 
 <br id="Perceptivel"> 
 
