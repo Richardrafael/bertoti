@@ -27,7 +27,9 @@ As informações devem ser exposta de modo que o usuario possa perceber <br>
  ![gato](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/gato1.PNG)<br>
  ## 1.2 - Mídia baseada em tempo <br>
  Forneça alternativas para mídia baseada em tempo.
- ![gato](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/case.PNG)<br>
+ ### 1.2.1 -  Legendas (pré-gravadas)
+As legendas são fornecidas para todo o conteúdo de áudio pré-gravado em mídia sincronizada, exceto quando a mídia for uma alternativa de mídia para texto e estiver claramente rotulada como tal.
+ ![case](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/case.PNG)<br>
  
 
 <br id="Perceptivel"> 
