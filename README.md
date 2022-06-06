@@ -13,7 +13,6 @@
 
 <br>
 <br id="bertoti">
-
 # Bertoti
  Avaliação de intregração homem e maquina 
 <br>
@@ -27,7 +26,7 @@ alalla<br>
 
 
 <br id="Adaptavel">
-**Adaptavel
+## Adaptavel
 
 allalala<br>
 
