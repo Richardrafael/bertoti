@@ -19,19 +19,16 @@
 
 
 <br id=#Perceptivel>
-# Perceptivel
-alalla<br>
-<img src = "./readme/grupoAPI/Logo.png"  width="200"/>
-<br>
+## Perceptivel
+oi<br>
 
+<br id="Perceptivel"> 
 
-
-<br id="Distinguível"> 
 
 ## Adaptavel
 AAAAAAAAAAAA<br>
 
-<br id="aistinguível"> 
+<br id="adaptavel"> 
 
 ## Distinguível
 estou trolando<br>
