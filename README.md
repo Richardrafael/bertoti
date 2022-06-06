@@ -2,7 +2,7 @@
 <br>
 <p align="center">
   <a href ="bertoti"> Bertoti </a>  •   
-  <a href ="#Perceptivel"> Perceptivel </a>  •   
+  <a href ="#Perceptivel"> Perceptível </a>  •   
   <a href ="#adaptavel"> Adptavel </a>  •  
   <a href ="#Distinguível"> Distinguível </a>  • 
   <a href ="#operavel"> Operavel </a>  • 
@@ -18,7 +18,7 @@
 <br>
 
 
-## Perceptivel
+## Perceptível
 oi<br>
 
 <br id="Perceptivel"> 
