@@ -104,10 +104,11 @@ Maximize a compatibilidade com agentes de usuário atuais e futuros, incluindo t
 
 <br id="Eu">
 
-<p align="center">
 
 ## Eu
 
+ <p align="center">
+  
 Richard Rafael Sacramento soares <br>
 Análise e Desenvolvimento de sistemas 3°semestre <br> 
 [@LinkedIn](https://www.linkedin.com/mwlite/in/richard-soares-002195221) <br>
