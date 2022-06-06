@@ -8,7 +8,7 @@
   <a href ="#operavel"> Operavel </a>  • 
   <a href ="#compreencivel">Compreencivel</a>  • 
   <a href ="#robusto">Robusto</a>  • 
-  <a href ="#metodologia-utilizada">Metodologia Utilizada</a> 
+  <a href ="Eu">Eu</a> 
  
 </p>
 
@@ -89,14 +89,19 @@ Ajude os usuários a evitar e corrigir erros.<br>
 <br id="compreencivel">
 
 
-# 4 – Robusto
+## 4 – Robusto
  O conteúdo deve ser robusto o suficiente para que possa ser interpretado por uma ampla<br> variedade de agentes de usuário, incluindo tecnologias assistivas.<br>
+
+### 4.1 - Compatível
+Maximize a compatibilidade com agentes de usuário atuais e futuros, incluindo tecnologias <br>assistivas.
  <br id="robusto">
 <br>
 
 
 
-<br id="compreencivel">
+
+
+<br id="Eu">
 
 Richard Rafael Sacramento soares <br>
 Análise e Desenvolvimento de sistemas 3°semestre <br> 
