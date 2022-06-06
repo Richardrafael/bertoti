@@ -27,6 +27,7 @@ As informações devem ser exposta de modo que o usuario possa perceber <br>
  ![gato](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/gato1.PNG)<br>
  ## 1.2 - Mídia baseada em tempo <br>
  Forneça alternativas para mídia baseada em tempo.
+ ![gato](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/midia.PNG)<br>
  
 
 <br id="Perceptivel"> 
