@@ -36,7 +36,7 @@ estou trolando<br>
 ## Operável
 estou trolando<br>
 
-<br id="operavel"
+<br id="operavel">
     
 
 ## 👨‍💻 Eu
