@@ -33,6 +33,7 @@ As informações devem ser exposta de modo que o usuario possa perceber <br>
 As legendas são fornecidas para todo o conteúdo de áudio pré-gravado em mídia sincronizada, exceto quando a mídia for uma alternativa de mídia para texto e estiver claramente rotulada como tal.
  ![case](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/case.PNG)<br>
  
+<br id="adaptavel"> 
 
 ## 1.3 - Adaptavel
 Crie conteúdo que possa ser apresentado de diferentes formas (por exemplo, layout mais <br>
@@ -45,7 +46,7 @@ como retrato ou paisagem, a menos que uma orientação de exibição específica
 Cada campo de conteúdo tem que ser claro <br>
 ![campos](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/campos.png)<br>
 
-<br id="adaptavel"> 
+<br id="Distinguível"> 
 
 ## 1.4 - Distinguível
 Torne mais fácil para os usuários ver e ouvir o conteúdo, incluindo a separação do primeiro<br>
@@ -55,7 +56,8 @@ A cor não é usada como o único meio visual de transmitir informações, indic
 solicitar uma resposta ou distinguir um elemento visual.
 ![cores](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/cores.png)<br>
 
-<br id="Distinguível">   
+ 
+<br id="operavel">
 
 ## 2 - Operável
 Os componentes da interface do usuário e a navegação devem ser operáveis.<br>
@@ -72,9 +74,9 @@ Forneça maneiras de ajudar os usuários a navegar, encontrar conteúdo e determ
 estão.<br>
 ### 2.5 - Modalidades de Entrada
 Torne mais fácil para os usuários operar a funcionalidade por meio de várias entradas além <br>do teclado.
-<br id="operavel">
-
 <br>
+
+<br id="compreencivel">
 
 ## 3 - Compreencivel
 As informações e a operação da interface do usuário devem ser compreensíveis.<br>
@@ -85,15 +87,15 @@ Faça com que as páginas da Web apareçam e operem de maneira previsível.<br>
 ### 3.3 - Assistência de Entrada
 Ajude os usuários a evitar e corrigir erros.<br>
 ![cores](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/form.jpg)<br>
-<br id="compreencivel">
 
+
+<br id="robusto">
 
 ## 4 – Robusto
  O conteúdo deve ser robusto o suficiente para que possa ser interpretado por uma ampla<br> variedade de agentes de usuário, incluindo tecnologias assistivas.<br>
 
 ### 4.1 - Compatível
 Maximize a compatibilidade com agentes de usuário atuais e futuros, incluindo tecnologias <br>assistivas.
- <br id="robusto">
 <br>
 
 
