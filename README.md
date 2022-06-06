@@ -57,9 +57,12 @@ solicitar uma resposta ou distinguir um elemento visual.
 
 <br id="Distinguível">   
 
-## Operável
+## 2 - Operável
 Os componentes da interface do usuário e a navegação devem ser operáveis.<br>
+## 2.1.1 - Teclado
+Atalhos pelo teclado possibilidando navegar pelo teclado
 
+![cores](https://github.com/Richardrafael/bertoti/blob/main/Intregra%C3%A7%C3%A3o_Homem_Maquina/readme/imge/cadastro_concessionaria.gif)
 <br id="operavel">
     
 
