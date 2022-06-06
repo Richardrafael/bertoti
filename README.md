@@ -5,7 +5,7 @@
   <a href ="#Perceptivel"> Perceptivel </a>  •   
   <a href ="#adaptavel"> Adptavel </a>  •  
   <a href ="#Distinguível"> Distinguível </a>  • 
-  <a href ="#cronograma"> Cronograma das Sprints </a>  • 
+  <a href ="#operavel"> Operavel </a>  • 
   <a href ="#tecnologias-utilizadas">Tecnologias Utilizadas</a>  • 
   <a href ="#metodologia-utilizada">Metodologia Utilizada</a> 
  
@@ -31,14 +31,13 @@ AAAAAAAAAAAA<br>
 ## Distinguível
 estou trolando<br>
 
-<br id="metodologia-utilizada">   
+<br id="Distinguível">   
 
-## 💡 Metodologia Utilizada   
+## Operável
+estou trolando<br>
 
-- **Metodologia Ágil: SCRUM**
-<h1 align="center"> 
-<img src = "./Intregração_Homem_Maquina/readme/imge/met.png"></h1>
-<br id="equipe">
+<br id="operavel"
+    
 
 ## 👨‍💻 Eu
 <!-- 
