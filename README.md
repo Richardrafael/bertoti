@@ -18,10 +18,8 @@
  <br id="bertoti">
 <br>
 
-
-## 1 - Perceptível
 <br id="perceptivel"> 
-
+## 1 - Perceptível
 As informações devem ser exposta de modo que o usuario possa perceber <br>
  ### 1.1 - Alternativas de Texto  <br>
  Para informações que não são texto forneça alternativas de texto para que possa ser modificado <br>
