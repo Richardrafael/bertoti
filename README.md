@@ -10,7 +10,7 @@
   <a href ="#robusto">Robusto</a>  • 
   <a href ="Eu">Eu</a> 
  
-</p> -->
+</p> 
 
 # Bertoti
 
