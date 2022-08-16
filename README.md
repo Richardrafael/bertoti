@@ -1,6 +1,6 @@
 <br>
 <br>
-<p align="center">
+  <p align="center">
   <a href ="bertoti"> Bertoti </a>  •   
   <a href ="#perceptivel"> Perceptível </a>  •   
   <a href ="#adaptavel"> Adptavel </a>  •  
@@ -10,7 +10,7 @@
   <a href ="#robusto">Robusto</a>  • 
   <a href ="Eu">Eu</a> 
  
-</p>
+</p> -->
 
 # Bertoti
 
