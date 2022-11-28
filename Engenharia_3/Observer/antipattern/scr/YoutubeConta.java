@@ -1,5 +1,5 @@
 package antipattern;
 
-public interface Conta {
+public interface YoutubeConta {
 	public abstract void update(int state);
 }

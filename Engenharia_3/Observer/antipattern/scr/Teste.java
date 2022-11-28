@@ -5,13 +5,13 @@ public class Teste {
 	public static void main(String args[]){
 		Notificados notificados = new Notificados();
 		
-	    Conta padrao = new Padrao();
+	    YoutubeConta padrao = new Padrao();
 	    notificados.add(padrao);
 	    
-	    Conta dobro = new Dobro();
+	    YoutubeConta dobro = new Dobro();
 	    notificados.add(dobro);
 	    
-	    Conta triplo = new Triplo();
+	    YoutubeConta triplo = new Triplo();
 	    notificados.add(triplo);
 
 	    notificados.setState(10);
