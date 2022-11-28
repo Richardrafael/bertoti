@@ -4,27 +4,22 @@ public class Teste {
 
 	public static void main(String[] args) {
 		
-		Equipamento espada = new Espada();
-		espada.equipar();
+		Compra arroz = new Arroz();
+		espada.comprar();
 		System.out.println("--------------------------------");
 		
-		Equipamento escudo = new Escudo();
-		escudo.equipar();
-		
-		System.out.println("--------------------------------");
-		
-		Equipamento machado = new Machado();
-		machado.equipar();
+		Compra feijao = new Feijao();
+		escudo.comprar();
 		
 		System.out.println("--------------------------------");
 		
-		Equipamento maca = new Maca();
-		maca.equipar();
+		Compra Uva  = new Machado();
+		machado.comprar();
 		
 		System.out.println("--------------------------------");
 		
-		Equipamento armadura = new Armadura();
-		armadura.equipar();
+		Compra maca = new Maca();
+		maca.comprar();
 		
 		System.out.println("--------------------------------");
 			

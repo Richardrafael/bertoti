@@ -1,7 +1,9 @@
 package antipattern;
 
-public class Maca extends Compra {
-
+public abstract class Compra {
+	
+	private String nome;
+	
 	public void comprar() {
 		System.out.println("Comprou ...");
 	}

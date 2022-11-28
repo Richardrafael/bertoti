@@ -3,10 +3,10 @@ package pattern;
 public class App {
 
 	public static void main(String[] args) {
-        BancoDados primeiroBanco = BancoDados.getInstance();
+        Servidor primeiroServico = Servidor.getInstance();
         
-        /* AINDA A MESMA INSTÂNCIA DE bd */
-        BancoDados novoBanco = BancoDados.getInstance();
+        /* AINDA A MESMA INSTï¿½NCIA DE Servidor */
+        Servidor novoServico = Servidor.getInstance();
 
 	}
 

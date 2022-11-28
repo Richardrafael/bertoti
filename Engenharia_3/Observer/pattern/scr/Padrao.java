@@ -8,6 +8,6 @@ public class Padrao extends Observer {
 
 	@Override
 	public void update() {
-		System.out.println("Padrão: " + Integer.toString(subject.getState()));		
+		System.out.println("Padrao: " + Integer.toString(subject.getState()));		
 	}    	
 }
