@@ -1,5 +1,5 @@
 package modelos;
 
-public class Produto {
+public class Computador {
 	public String nome;
 }

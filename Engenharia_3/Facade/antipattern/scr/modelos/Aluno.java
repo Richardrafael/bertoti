@@ -1,5 +1,5 @@
 package modelos;
 
-public class Cliente {
+public class Aluno {
 	public String nome;
 }

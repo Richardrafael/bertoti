@@ -3,32 +3,32 @@ package facade;
 import java.util.ArrayList;
 import java.util.List;
 
-import modelos.Produto;
-import modelos.Venda;
-import negocios.ClienteNegocio;
-import negocios.ProdutoNegocio;
-import negocios.VendaNegocio;
+import modelos.Computador;
+import modelos.Resultado;
+import negocios.AlunoNegocio;
+import negocios.ComputadorNegocio;
+import negocios.ResultadoNegocio;
 
 public class Facade {
-	private ClienteNegocio clienteNegocio  = new ClienteNegocio();
-	private VendaNegocio vendaNegocio = new VendaNegocio();
-	private ProdutoNegocio produtoNegocio = new ProdutoNegocio();
+	private AlunoNegocio alunoNegocio  = new AlunoNegocio();
+	private ResultadoNegocio resultadoNegocio = new ResultadoNegocio();
+	private ComputadorNegocio computadorNegocio = new ComputadorNegocio();
 	
-	public List<Venda> gerarRelatorioVendasPorCliente(int id) {
+	public List<Resultado> gerarRelatorioResultadosPorAluno(int id) {
 		
 		// Apenas exemplo, sem consulta real:
-		vendaNegocio.consultarVendaPorCliente(clienteNegocio.consultarClientePorId(id));
-		List<Venda> relatorioVendasGeradaPorcliente = new ArrayList<>();
+		resultadoNegocio.consultarResultadosPorAluno(alunoNegocio.consultarAlunoPorId(id));
+		List<Resultado> relatorioResultadosGeradaPoraluno = new ArrayList<>();
 		
-		return relatorioVendasGeradaPorcliente;
+		return relatorioResultadosGeradaPoraluno;
 	}
 	
-	public List<Produto> gerarRelatorioProdutosMaisVendidos(int id) {
+	public List<Computador> gerarRelatorioComputadoresMaisVendidos(int id) {
 		
 		// Apenas exemplo, sem consulta real:
-		produtoNegocio.consultarProdutoPorVenda(vendaNegocio.consultarVendaPorCliente(clienteNegocio.consultarClientePorId(id)));
-		List<Produto> relatorioVendasGeradaPorcliente = new ArrayList<>();
+		computadorNegocio.consultarComputadorPorResultado(resultadoNegocio.consultarResultadoPorAluno(alunoNegocio.consultarAlunoPorId(id)));
+		List<Computador> relatorioResultadosGeradaPoraluno = new ArrayList<>();
 		
-		return relatorioVendasGeradaPorcliente;
+		return relatorioResultadosGeradaPoraluno;
 	}
 }
